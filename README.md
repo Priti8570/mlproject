@@ -34,3 +34,9 @@ Data Balancing
 
 Model Building and Evaluation
 
+## Dataset used
+[Dataset](https://github.com/Priti8570/mlproject/blob/main/HousePricePrediction.xlsx)
+
+# Code
+[Code](https://github.com/Priti8570/mlproject/blob/main/House_Price_Prediction.ipynb)
+
